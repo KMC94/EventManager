@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\propertysheet\Assets\Editor\PropertyLister.cs">
+    <Files>
+      <File FileName="..\propertysheet\Assets\LargerClass.cs" Line="8" Column="1" />
+      <File FileName="..\propertysheet\Assets\ClassWithProperties.cs" Line="7" Column="2" />
+      <File FileName="..\propertysheet\Assets\Editor\PropertyLister.cs" Line="9" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

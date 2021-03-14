@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\..\path_finding\Assets\RenderTextureTrans\TexBlender.shader">
+    <Files>
+      <File FileName="..\..\..\..\..\..\path_finding\Assets\RenderTextureTrans\TexturePainter.cs" Line="18" Column="33" />
+      <File FileName="..\..\..\..\..\..\path_finding\Assets\RenderTextureTrans\TexBlender.shader" Line="22" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<text>
+	<language id="english">
+		<text_entry id="text_01"><![CDATA[new game]]></text_entry>
+		<text_entry id="text_02"><![CDATA[load game]]></text_entry>
+		<text_entry id="text_03"><![CDATA[save game]]></text_entry>
+		<text_entry id="text_04"><![CDATA[exit game]]></text_entry>
+	</language>
+	<language id="yoda">
+		<text_entry id="text_01"><![CDATA[new game, you start]]></text_entry>
+		<text_entry id="text_02"><![CDATA[load game, you will]]></text_entry>
+		<text_entry id="text_03"><![CDATA[game save, you have]]></text_entry>
+		<text_entry id="text_04"><![CDATA[leave now, you must]]></text_entry>
+	</language>
+</text>
